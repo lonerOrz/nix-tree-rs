@@ -6,6 +6,8 @@ A Rust port of [nix-tree](https://github.com/utdemir/nix-tree), providing an int
 
 `nix-tree-rs` is a terminal user interface (TUI) that allows you to interactively browse and analyze the dependency tree of Nix store paths. It helps you understand why packages are in your Nix store and how much space they consume.
 
+![showcase](.github/assets/show.png)
+
 ## Features
 
 - 🌳 **Interactive Navigation**: Three-pane interface showing referrers, current selection, and dependencies
